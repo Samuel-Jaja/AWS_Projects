@@ -1,0 +1,1 @@
+To allow public inbound and outbound traffic from www to Virtual Private Cloud
